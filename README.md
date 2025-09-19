@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Niklas! 👋
 
-<!--
-**NiklasKrogell/NiklasKrogell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **student** currently pursuing a Bachelor of Engineering in Information Technology.
 
-Here are some ideas to get you started:
+## I am interested in:
+- **Software engineering**
+- **Machine learning**
+- Most recently **IoT and embedded programming** has caught my interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Languages & Tools
+- **Comfortable with:** C#, C++, JavaScript
+- **Also experienced in:** Java, Python, R
+
+## 🏋️‍♂️ Outside of Code
+When I’m not at my keyboard, you’ll find me at the gym, out for a run, or serving my community as a **contract firefighter**.
+
+---
