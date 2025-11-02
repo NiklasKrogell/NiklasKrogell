@@ -4,7 +4,6 @@ I'm a passionate **student** currently pursuing a Bachelor of Engineering in Inf
 
 ## I am interested in:
 - **Software engineering**
-- **Machine learning**
 - Most recently **IoT and embedded programming** has caught my interest
 
 ## 👨‍💻 Languages & Tools
@@ -12,6 +11,6 @@ I'm a passionate **student** currently pursuing a Bachelor of Engineering in Inf
 - **Also experienced in:** Java, Python, R
 
 ## 🏋️‍♂️ Outside of Code
-When I’m not at my keyboard, you’ll find me at the gym, out for a run, or serving my community as a **contract firefighter**.
+When I’m not at my keyboard, you’ll find me at the gym, walking in forest  with my dog, playing videogames or serving my community as a **contract firefighter**.
 
 ---
