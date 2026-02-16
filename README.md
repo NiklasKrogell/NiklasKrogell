@@ -1,9 +1,10 @@
-# Hi there, I'm Niklas! 👋
+# Hi there, I'm Niklas!
 
 I'm a passionate **student** currently pursuing a Bachelor of Engineering in Information Technology.
 
 ## I am interested in:
 - **Full-stack software engineering**
+- **Mobile development**
 - **IoT and embedded programming**
 
 ## 👨‍💻 Languages & Tools
@@ -15,7 +16,7 @@ I'm a passionate **student** currently pursuing a Bachelor of Engineering in Inf
 - .NET (maui, WPF)
 - React
 - React Native
-- nodejs
+- Nodejs, Express
 
 ### Databases:
 - MySQL
