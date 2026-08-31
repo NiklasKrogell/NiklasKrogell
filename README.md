@@ -1,6 +1,8 @@
 # Hi there, I'm Niklas!
 
 I'm a passionate **student** currently pursuing a Bachelor of Engineering in Information Technology.
+I enjoy solving problems and helping businesses to solve theirs and automate processes.
+I would describe myself as a business-oriented problem-solver.
 
 ## I am interested in:
 - **Full-stack software engineering**
