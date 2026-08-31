@@ -9,18 +9,19 @@ I'm a passionate **student** currently pursuing a Bachelor of Engineering in Inf
 
 ## 👨‍💻 Languages & Tools
 ### Languages:
-- **Comfortable with:** C#, Java, JavaScript, TypeScript, HTML/CSS, SQL
-- **Also experienced in:** Python, Kotlin, C++, C, R
+- **Comfortable with:** JavaScript/TypeScript, C#, Dart, HTML/CSS, SQL
+- **Also experienced in:** Python, Kotlin, Java, C++, C, R
 
 ### Frameworks and libraries:
-- .NET (maui, WPF)
-- React
-- React Native
-- Nodejs, Express
+- React / React Native
+- Node.js / Express
+- .NET
+- Flutter
 
 ### Databases:
-- MySQL
 - PostgreSQL
+- MongoDB
+- MySQL
 - SQLite
 
 ### IDEs:
@@ -36,6 +37,6 @@ I'm a passionate **student** currently pursuing a Bachelor of Engineering in Inf
 - Postman (api testing)
 
 ## 🏋️‍♂️ Outside of Code
-When I’m not at my keyboard, you’ll find me at the gym, walking in forest  with my dog, playing videogames or serving my community as a **contract firefighter**.
+When I’m not at my keyboard, you’ll find me at the gym, running, walking in forest  with my dog, playing videogames or serving my community as a **contract firefighter**.
 
 ---
